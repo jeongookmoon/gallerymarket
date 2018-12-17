@@ -1,7 +1,7 @@
 # Gallery Market
 ## Web Platform to Purchase/Sell/Share Images
 ---
-##Features:
+## Features:
 
 1. Authentication
   * Signup, Login
@@ -33,5 +33,7 @@
 https://photos.app.goo.gl/75nsuekBDa98DzZn9
 
 Frontend: HTML, CSS, JS, Boostrap
+
 Backend: PHP
+
 Database: MySQL
